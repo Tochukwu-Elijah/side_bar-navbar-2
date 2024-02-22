@@ -1,0 +1,1 @@
+"I created this engaging landing page with a sleek sidebar using HTML, CSS, and JavaScript. The sidebar has icons and labels for easy navigation and a polished, responsive design. JavaScript adds interactivity with smooth transitions and collapsible sections. The landing page content complements the sidebar for a visually appealing user-friendly interface."
